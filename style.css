@@ -1,9 +1,14 @@
 body{
-    background-color: #293d7e;
     
-    display:flex;
-    justify-content:center;
-    align-items:center
+    background-color: #293D7E;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .head{
     width: 130px;
@@ -11,8 +16,7 @@ body{
     border: 20px solid #6E91CA;
     border-bottom: 0;
     border-radius: 90px 90px 0px 0px;
-    
-    
+
 
 }
 .phone{
