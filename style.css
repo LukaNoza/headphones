@@ -1,6 +1,9 @@
 body{
     background-color: #293d7e;
-    position: fixed;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center
 }
 .head{
     width: 130px;
@@ -19,7 +22,4 @@ body{
     border-radius: 0px 20px 30px 30px;
     -webkit-box-reflect: right 50px;
     
-}
-.all{
-    justify-content: center;
 }
